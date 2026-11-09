@@ -1,5 +1,10 @@
 # 🛡️ Vanguard SRE: State & Rollback Engine (v2)
 
+<p align="center">
+  <img src="Vanguard SRE.png" alt="Vanguard SRE.png" width="600">
+</p>
+
+
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Status: MVP](https://img.shields.io/badge/status-MVP-success.svg)]()
 [![Platform: Linux/WSL2](https://img.shields.io/badge/platform-Linux%20%7C%20WSL2-lightgrey.svg)]()
